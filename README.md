@@ -30,7 +30,8 @@ print(f"Eigen values are {eigenvalues} and Eigen Vectors are {eigenvectors}")
 ```
 
 ## Output:
-<img width="1198" height="201" alt="image" src="https://github.com/user-attachments/assets/77b92d42-9169-4a9e-8ba0-beb0e1b4efe4" />
+<img width="1351" height="608" alt="image" src="https://github.com/user-attachments/assets/026f1dd0-b667-4520-b5b7-1d5d453743bc" />
+
 
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
